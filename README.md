@@ -1,1 +1,1 @@
-# blackjackPygame
+This is a simple one player blackjack game that uses pygame to create an interface. Cards are always random, and can reappear in multiple games in a row (there is no deck). Aces auto adjust to best serve the player and dealer. Dealer hits on anything less than 17. 
